@@ -2,7 +2,7 @@
 title: My Documentation Site
 ---
 
-# A Typical Documentation Site
+# An Amazing Documentation Site
 
 ## This could be any open-source project or tool
 
